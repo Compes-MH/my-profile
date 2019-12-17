@@ -42,7 +42,6 @@ a	{
 	color: blue	
 	font-weight: 600;
 	font-size: 16px;
-	font-family: Roboto;
 }
 a:hover {
 	color: rgb(2, 10, 70);
@@ -88,6 +87,7 @@ a:hover {
 	color: white;
 	padding: 15px 20px; 
 	border-radius: 4px; 
+	font-family: Roboto;
  }
 
 .btn-blue:hover { 
